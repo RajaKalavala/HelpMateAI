@@ -50,8 +50,7 @@ Ensure you have the following installed:
 1. Clone the repo:
    git clone https://github.com/RajaKalavala/HelpMateAI.git
 
-2. Navigate to the project directory:
-   cd helpmateAI.ipynb
+2. Navigate to the project directory.
 
 3. Install the required dependencies:
    pip install -r requirements.txt
